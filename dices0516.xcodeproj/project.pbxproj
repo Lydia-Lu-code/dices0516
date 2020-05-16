@@ -13,6 +13,7 @@
 		00387732246FDC860072D3A5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 00387730246FDC860072D3A5 /* Main.storyboard */; };
 		00387734246FDC8A0072D3A5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 00387733246FDC8A0072D3A5 /* Assets.xcassets */; };
 		00387737246FDC8A0072D3A5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 00387735246FDC8A0072D3A5 /* LaunchScreen.storyboard */; };
+		0038773F247035ED0072D3A5 /* shakeVoice.wav in Resources */ = {isa = PBXBuildFile; fileRef = 0038773E247035ED0072D3A5 /* shakeVoice.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		00387733246FDC8A0072D3A5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		00387736246FDC8A0072D3A5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		00387738246FDC8A0072D3A5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0038773E247035ED0072D3A5 /* shakeVoice.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = shakeVoice.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				00387733246FDC8A0072D3A5 /* Assets.xcassets */,
 				00387735246FDC8A0072D3A5 /* LaunchScreen.storyboard */,
 				00387738246FDC8A0072D3A5 /* Info.plist */,
+				0038773E247035ED0072D3A5 /* shakeVoice.wav */,
 			);
 			path = dices0516;
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0038773F247035ED0072D3A5 /* shakeVoice.wav in Resources */,
 				00387737246FDC8A0072D3A5 /* LaunchScreen.storyboard in Resources */,
 				00387734246FDC8A0072D3A5 /* Assets.xcassets in Resources */,
 				00387732246FDC860072D3A5 /* Main.storyboard in Resources */,
